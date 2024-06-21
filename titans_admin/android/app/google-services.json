@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "251834196047",
+    "firebase_url": "https://qrattendance-1834c-default-rtdb.firebaseio.com",
+    "project_id": "qrattendance-1834c",
+    "storage_bucket": "qrattendance-1834c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251834196047:android:c43b26b0b15cc9ed868a3a",
+        "android_client_info": {
+          "package_name": "com.example.kendice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8d8xBNOaESu66XqnEQSXyMlVKNXrCxJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251834196047:android:16f1a9300f72c3e3868a3a",
+        "android_client_info": {
+          "package_name": "com.example.titans"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8d8xBNOaESu66XqnEQSXyMlVKNXrCxJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251834196047:android:48db2046a2c7406c868a3a",
+        "android_client_info": {
+          "package_name": "com.example.titans_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8d8xBNOaESu66XqnEQSXyMlVKNXrCxJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
